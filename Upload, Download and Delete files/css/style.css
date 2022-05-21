@@ -1,0 +1,128 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: century gothic;
+
+}
+body{
+	  
+	 background: url(../images/back1.png);
+}
+.title{
+	display: inline-flex;
+	color: white;
+	 
+}
+.title img{
+	padding: 15px;
+	height: 75px;
+	width: 80px;
+
+}
+.title h2{
+	padding-top:35px;
+	margin-left: -10px;
+}
+.click a{
+	margin-left: 15px;
+	padding-right: 20px;
+}
+.click a{ 
+	 float: right;
+	 margin-top: -76px;
+	 margin-right: 65px;
+     font-size: 18px;
+     text-decoration: none;
+     border: 1px solid white;
+     border-radius: 5px;
+     padding: 10px;
+     color: white;
+     transition: 0.5s ease;
+   
+} 
+.click a:hover{
+	color: rgba(52, 152, 219,1.0);
+	background: white;
+	border: 1px solid white;
+ }
+.line{
+	height: 1px;
+	width: 100%;
+	background: white;
+	margin-top: -20px;
+
+}
+.img img{
+	height: 500px;
+	width: 600px;
+}
+.info{
+	width: 520px;
+	margin-top: 15px;
+	margin-left: 280px;
+	background: white;
+	height: 400px;
+	padding: 25px;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.info .form-row .col{
+	padding: 10px;	
+	padding:px;
+}
+.head h2{
+	margin-left:10px;
+	margin-top: 10px;
+	color: #1E90FF;
+	font-size: 25px;
+}
+.header{
+	height: 50px;
+	width: 100%;
+	background: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.header h1{
+	color:#1E90FF;
+	margin-left: px;
+	padding: 20px;
+	font-size: 40px;
+	text-shadow: 1px 1px white;
+
+
+
+} 
+.shailesh {
+	color: #1E90FF;
+	font-size: 20px;
+	margin-left: 35px;
+	background: white;
+	width: 200px;
+	 
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	padding: 10px;
+}
+
+table tr td{
+	background: white;
+	margin-left: 30px;
+ 
+}
+table tr{
+	padding: 10px;
+}
+table{
+	margin-left: 30px;
+	padding: 20px;
+}
+
+.form1{
+	display: table-cell;
+} 
+.myone h1{
+	color: white;
+}
+ 
